@@ -23,8 +23,8 @@ A clean dataset ready for NLP tasks such as text analysis and preprocessing.
 
 ## Links
 
-* GitHub: *shariq7qureshi*
-* Kaggle: *(XYZ)*
+* GitHub: *(shariq7qureshi)*
+* Kaggle: *(https://www.kaggle.com/datasets/shariq7qureshi/top-multiplayer-pc-games-dataset)*
 
 ## Author
 
